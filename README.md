@@ -1,6 +1,13 @@
-=================================  
+
 Java Selenium Automation Journey 
-=================================
+
+===========
+My Manifest
+===========
+
+I am continually learning and striving to transition from a manual tester to an automation engineer. With over 14 years of experience in manual testing, I’ve faced increasing challenges in finding work in Poland since 2023, as manual testers are often undervalued. Despite searching for over a year, I remain determined to upskill and build a career in automation testing. This repository is a significant milestone in my journey, showcasing my progress and dedication to mastering automation frameworks.
+
+
 
 Welcome to my first serious project in **Java** with **Selenium**! 🚀  
 
